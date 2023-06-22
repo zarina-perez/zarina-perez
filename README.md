@@ -8,11 +8,11 @@ During my learning journey, I also participated in an externship program, where 
 
 Some facts about me:
 
-📸 I enjoy participating in professional events, especially those organized by the Women in Data Science community. 
-🏃‍♀️I love running, and even used to be the pacemaker on my student track team. 
-🗽 At the moment, I am training for the NYC Marathon! 
-🥘 I also hate cooking, and would always prefer to order in or eat out. 
-🎯 My goals for 2023: landing my dream job in data. And getting a cat!
+- 📸 I enjoy participating in professional events, especially those organized by the Women in Data Science community. 
+- 🏃‍♀️I love running, and even used to be the pacemaker on my student track team. 
+- 🗽 At the moment, I am training for the NYC Marathon! 
+- 🥘 I also hate cooking, and would always prefer to order in or eat out. 
+- 🎯 My goals for 2023: landing my dream job in data. And getting a cat!
 
 Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1qtV98-3l01wGQUUFLobw6jYPgbnLgMZ1/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
